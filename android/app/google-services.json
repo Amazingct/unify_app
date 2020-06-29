@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "568043900925",
+    "firebase_url": "https://unify-has.firebaseio.com",
+    "project_id": "unify-has",
+    "storage_bucket": "unify-has.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568043900925:android:8e1664e1d6e54d74791394",
+        "android_client_info": {
+          "package_name": "com.unify.amazing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568043900925-frq73dfa7ebbvqb7io6thlt1hl6ml6co.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCf6KQ5vfs7BBXtoGy_mc_9fizuWU2rTFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568043900925-frq73dfa7ebbvqb7io6thlt1hl6ml6co.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

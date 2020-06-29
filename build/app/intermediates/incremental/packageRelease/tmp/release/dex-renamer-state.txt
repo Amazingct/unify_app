@@ -1,0 +1,4 @@
+#Mon Jun 29 18:53:29 GMT 2020
+base.0=/home/amazing/Desktop/PROJECTS_AND_CODES/FLUTTER_AS/Unify_App/build/app/intermediates/transforms/r8/release/0/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
