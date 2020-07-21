@@ -1,26 +1,26 @@
 [
     {
-        "merged": "/home/amazing/Desktop/PROJECTS_AND_CODES/FLUTTER_AS/Unify_App/build/firebase_core_web/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
-        "source": "/home/amazing/.gradle/caches/transforms-2/files-2.1/03de50801950aab64f0548832a05435c/core-1.1.0/res/layout/notification_template_part_chronometer.xml"
+        "merged": "C:\\Users\\user1\\Downloads\\unify_app\\build\\firebase_core_web\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\user1\\.gradle\\caches\\transforms-2\\files-2.1\\03de50801950aab64f0548832a05435c\\core-1.1.0\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/home/amazing/Desktop/PROJECTS_AND_CODES/FLUTTER_AS/Unify_App/build/firebase_core_web/intermediates/res/merged/release/layout/custom_dialog.xml",
-        "source": "/home/amazing/.gradle/caches/transforms-2/files-2.1/03de50801950aab64f0548832a05435c/core-1.1.0/res/layout/custom_dialog.xml"
+        "merged": "C:\\Users\\user1\\Downloads\\unify_app\\build\\firebase_core_web\\intermediates\\res\\merged\\release\\layout\\notification_action.xml",
+        "source": "C:\\Users\\user1\\.gradle\\caches\\transforms-2\\files-2.1\\03de50801950aab64f0548832a05435c\\core-1.1.0\\res\\layout\\notification_action.xml"
     },
     {
-        "merged": "/home/amazing/Desktop/PROJECTS_AND_CODES/FLUTTER_AS/Unify_App/build/firebase_core_web/intermediates/res/merged/release/layout/notification_action.xml",
-        "source": "/home/amazing/.gradle/caches/transforms-2/files-2.1/03de50801950aab64f0548832a05435c/core-1.1.0/res/layout/notification_action.xml"
+        "merged": "C:\\Users\\user1\\Downloads\\unify_app\\build\\firebase_core_web\\intermediates\\res\\merged\\release\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\user1\\.gradle\\caches\\transforms-2\\files-2.1\\03de50801950aab64f0548832a05435c\\core-1.1.0\\res\\layout\\notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/amazing/Desktop/PROJECTS_AND_CODES/FLUTTER_AS/Unify_App/build/firebase_core_web/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
-        "source": "/home/amazing/.gradle/caches/transforms-2/files-2.1/03de50801950aab64f0548832a05435c/core-1.1.0/res/layout/notification_template_icon_group.xml"
+        "merged": "C:\\Users\\user1\\Downloads\\unify_app\\build\\firebase_core_web\\intermediates\\res\\merged\\release\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\user1\\.gradle\\caches\\transforms-2\\files-2.1\\03de50801950aab64f0548832a05435c\\core-1.1.0\\res\\layout\\notification_template_icon_group.xml"
     },
     {
-        "merged": "/home/amazing/Desktop/PROJECTS_AND_CODES/FLUTTER_AS/Unify_App/build/firebase_core_web/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
-        "source": "/home/amazing/.gradle/caches/transforms-2/files-2.1/03de50801950aab64f0548832a05435c/core-1.1.0/res/layout/notification_action_tombstone.xml"
+        "merged": "C:\\Users\\user1\\Downloads\\unify_app\\build\\firebase_core_web\\intermediates\\res\\merged\\release\\layout\\custom_dialog.xml",
+        "source": "C:\\Users\\user1\\.gradle\\caches\\transforms-2\\files-2.1\\03de50801950aab64f0548832a05435c\\core-1.1.0\\res\\layout\\custom_dialog.xml"
     },
     {
-        "merged": "/home/amazing/Desktop/PROJECTS_AND_CODES/FLUTTER_AS/Unify_App/build/firebase_core_web/intermediates/res/merged/release/layout/notification_template_part_time.xml",
-        "source": "/home/amazing/.gradle/caches/transforms-2/files-2.1/03de50801950aab64f0548832a05435c/core-1.1.0/res/layout/notification_template_part_time.xml"
+        "merged": "C:\\Users\\user1\\Downloads\\unify_app\\build\\firebase_core_web\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\user1\\.gradle\\caches\\transforms-2\\files-2.1\\03de50801950aab64f0548832a05435c\\core-1.1.0\\res\\layout\\notification_template_part_time.xml"
     }
 ]

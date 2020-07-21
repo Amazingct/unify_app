@@ -27,7 +27,7 @@ class _RegisterState extends State<Register> {
             appBar: AppBar(
               backgroundColor: Colors.blue[400],
               elevation: 0.0,
-              title: Text("Sign up a new Hub"),
+              title: Text("Sign up to Unify"),
               actions: <Widget>[
                 FlatButton.icon(
                     icon: Icon(Icons.person),
@@ -80,8 +80,12 @@ class _RegisterState extends State<Register> {
                         height: 20.0,
                       ),
                       RaisedButton(
+                        shape: RoundedRectangleBorder(
+                            borderRadius: new BorderRadius.circular(30.0)),
                         color: Colors.blue[400],
-                        child: Text("Register"),
+                        child: Text("Register",
+                            style: TextStyle(
+                                fontFamily: 'Roboto', color: Colors.white)),
                         onPressed: () async {
                           if (_formKey.currentState.validate()) {
                             setState(() {

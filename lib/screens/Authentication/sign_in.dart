@@ -38,8 +38,17 @@ class _SignInState extends State<SignIn> {
               ],
             ),
             body: Container(
-                padding: EdgeInsets.symmetric(vertical: 20.0, horizontal: 50.0),
-                child: Form(
+              margin: EdgeInsets.fromLTRB(0, 40, 0, 0),
+              padding: EdgeInsets.symmetric(vertical: 20.0, horizontal: 50.0),
+              child: new SingleChildScrollView(
+                  child: Column(children: [
+                Text("Unify",
+                    style: TextStyle(
+                        fontFamily: 'Roboto',
+                        fontSize: 70,
+                        fontWeight: FontWeight.bold,
+                        color: Colors.blue[400])),
+                Form(
                   key: _formKey,
                   child: Column(
                     children: <Widget>[
@@ -70,8 +79,12 @@ class _SignInState extends State<SignIn> {
                         height: 20.0,
                       ),
                       RaisedButton(
+                        shape: RoundedRectangleBorder(
+                            borderRadius: new BorderRadius.circular(30.0)),
                         color: Colors.blue[400],
-                        child: Text("Sign in"),
+                        child: Text("Sign in",
+                            style: TextStyle(
+                                fontFamily: 'Roboto', color: Colors.white)),
                         onPressed: () async {
                           if (_formKey.currentState.validate()) {
                             setState(() {
@@ -91,8 +104,12 @@ class _SignInState extends State<SignIn> {
                       ),
                       // reset password button
                       RaisedButton(
+                        shape: RoundedRectangleBorder(
+                            borderRadius: new BorderRadius.circular(30.0)),
                         color: Colors.blue[400],
-                        child: Text("Reset Password"),
+                        child: Text("Reset Password",
+                            style: TextStyle(
+                                fontFamily: 'Roboto', color: Colors.white)),
                         onPressed: () async {
                           if (_formKey.currentState.validate()) {
                             setState(() {
@@ -118,7 +135,8 @@ class _SignInState extends State<SignIn> {
                       )
                     ],
                   ),
-                )),
-          );
+                )
+              ])),
+            ));
   }
 }

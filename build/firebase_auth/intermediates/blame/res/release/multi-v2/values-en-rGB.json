@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/amazing/Desktop/PROJECTS_AND_CODES/FLUTTER_AS/Unify_App/build/firebase_auth/intermediates/res/merged/release/values-en-rGB/values-en-rGB.xml",
+            "outputFile": "C:\\Users\\user1\\Downloads\\unify_app\\build\\firebase_auth\\intermediates\\res\\merged\\release\\values-en-rGB\\values-en-rGB.xml",
             "map": [
                 {
-                    "source": "/home/amazing/.gradle/caches/transforms-2/files-2.1/03de50801950aab64f0548832a05435c/core-1.1.0/res/values-en-rGB/values-en-rGB.xml",
+                    "source": "C:\\Users\\user1\\.gradle\\caches\\transforms-2\\files-2.1\\03de50801950aab64f0548832a05435c\\core-1.1.0\\res\\values-en-rGB\\values-en-rGB.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/amazing/.gradle/caches/transforms-2/files-2.1/cec6303ece2ee04fc19d4779841eede8/jetified-play-services-basement-16.1.0/res/values-en-rGB/values.xml",
+                    "source": "C:\\Users\\user1\\.gradle\\caches\\transforms-2\\files-2.1\\cb140330340221ae25e56c061cef63b9\\jetified-play-services-basement-16.1.0\\res\\values-en-rGB\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/home/amazing/.gradle/caches/transforms-2/files-2.1/5ec904bf7dc3521127361bcaf4d62041/jetified-play-services-base-16.0.1/res/values-en-rGB/values.xml",
+                    "source": "C:\\Users\\user1\\.gradle\\caches\\transforms-2\\files-2.1\\1f3c75c9fd2f5d29b925e1c12dca5d82\\jetified-play-services-base-16.0.1\\res\\values-en-rGB\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -57,10 +57,10 @@
             ]
         },
         {
-            "outputFile": "/home/amazing/Desktop/PROJECTS_AND_CODES/FLUTTER_AS/Unify_App/build/firebase_auth/intermediates/incremental/mergeReleaseResources/merged.dir/values-en-rGB/values-en-rGB.xml",
+            "outputFile": "C:\\Users\\user1\\Downloads\\unify_app\\build\\firebase_auth\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-en-rGB\\values-en-rGB.xml",
             "map": [
                 {
-                    "source": "/home/amazing/.gradle/caches/transforms-2/files-2.1/03de50801950aab64f0548832a05435c/core-1.1.0/res/values-en-rGB/values-en-rGB.xml",
+                    "source": "C:\\Users\\user1\\.gradle\\caches\\transforms-2\\files-2.1\\03de50801950aab64f0548832a05435c\\core-1.1.0\\res\\values-en-rGB\\values-en-rGB.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -77,7 +77,7 @@
                     }
                 },
                 {
-                    "source": "/home/amazing/.gradle/caches/transforms-2/files-2.1/cec6303ece2ee04fc19d4779841eede8/jetified-play-services-basement-16.1.0/res/values-en-rGB/values.xml",
+                    "source": "C:\\Users\\user1\\.gradle\\caches\\transforms-2\\files-2.1\\cb140330340221ae25e56c061cef63b9\\jetified-play-services-basement-16.1.0\\res\\values-en-rGB\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -94,7 +94,7 @@
                     }
                 },
                 {
-                    "source": "/home/amazing/.gradle/caches/transforms-2/files-2.1/5ec904bf7dc3521127361bcaf4d62041/jetified-play-services-base-16.0.1/res/values-en-rGB/values.xml",
+                    "source": "C:\\Users\\user1\\.gradle\\caches\\transforms-2\\files-2.1\\1f3c75c9fd2f5d29b925e1c12dca5d82\\jetified-play-services-base-16.0.1\\res\\values-en-rGB\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",

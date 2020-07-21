@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/amazing/Desktop/PROJECTS_AND_CODES/FLUTTER_AS/Unify_App/build/firebase_core_web/intermediates/incremental/mergeReleaseResources/merged.dir/values-hu/values-hu.xml",
+            "outputFile": "C:\\Users\\user1\\Downloads\\unify_app\\build\\firebase_core_web\\intermediates\\res\\merged\\release\\values-hu\\values-hu.xml",
             "map": [
                 {
-                    "source": "/home/amazing/.gradle/caches/transforms-2/files-2.1/03de50801950aab64f0548832a05435c/core-1.1.0/res/values-hu/values-hu.xml",
+                    "source": "C:\\Users\\user1\\.gradle\\caches\\transforms-2\\files-2.1\\03de50801950aab64f0548832a05435c\\core-1.1.0\\res\\values-hu\\values-hu.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -16,10 +16,10 @@
             ]
         },
         {
-            "outputFile": "/home/amazing/Desktop/PROJECTS_AND_CODES/FLUTTER_AS/Unify_App/build/firebase_core_web/intermediates/res/merged/release/values-hu/values-hu.xml",
+            "outputFile": "C:\\Users\\user1\\Downloads\\unify_app\\build\\firebase_core_web\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-hu\\values-hu.xml",
             "map": [
                 {
-                    "source": "/home/amazing/.gradle/caches/transforms-2/files-2.1/03de50801950aab64f0548832a05435c/core-1.1.0/res/values-hu/values-hu.xml",
+                    "source": "C:\\Users\\user1\\.gradle\\caches\\transforms-2\\files-2.1\\03de50801950aab64f0548832a05435c\\core-1.1.0\\res\\values-hu\\values-hu.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
