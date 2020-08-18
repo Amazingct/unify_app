@@ -181,7 +181,7 @@ class _HomeState extends State {
                         alignment: Alignment.center,
                         padding: const EdgeInsets.all(8.0),
                         child: Text(
-                          "" + state[0].toString() + "°C",
+                          "" + state[names.indexOf('Temperature')].toString() + "°C",
                           style: TextStyle(
                               fontFamily: 'Roboto',
                               color: Colors.white,
